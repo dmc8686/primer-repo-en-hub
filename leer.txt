@@ -1,1 +1,2 @@
 hola, este es un archivo de texto.
+hoy 27 agregue esta nueva linea de texto
